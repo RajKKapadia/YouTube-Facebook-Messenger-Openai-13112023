@@ -1,0 +1,51 @@
+<mxfile host="Electron" modified="2023-11-13T09:35:32.108Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="ehd-HZWaFT_BVWIzWU-n" version="22.0.3" type="device">
+  <diagram name="Page-1" id="_8AQJcMsVkJBaSBw6Fuo">
+    <mxGraphModel dx="819" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SkGyl-OMJJwvpICMnTSE-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SkGyl-OMJJwvpICMnTSE-1" target="SkGyl-OMJJwvpICMnTSE-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SkGyl-OMJJwvpICMnTSE-1" value="Facebook Messenger App" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="160" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SkGyl-OMJJwvpICMnTSE-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SkGyl-OMJJwvpICMnTSE-2" target="SkGyl-OMJJwvpICMnTSE-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SkGyl-OMJJwvpICMnTSE-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="160" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SkGyl-OMJJwvpICMnTSE-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SkGyl-OMJJwvpICMnTSE-4" target="SkGyl-OMJJwvpICMnTSE-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SkGyl-OMJJwvpICMnTSE-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="SkGyl-OMJJwvpICMnTSE-4" target="SkGyl-OMJJwvpICMnTSE-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="120" />
+              <mxPoint x="240" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SkGyl-OMJJwvpICMnTSE-4" value="Our webhook" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="160" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SkGyl-OMJJwvpICMnTSE-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SkGyl-OMJJwvpICMnTSE-6" target="SkGyl-OMJJwvpICMnTSE-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SkGyl-OMJJwvpICMnTSE-6" value="Process the request Call Openai" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="160" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SkGyl-OMJJwvpICMnTSE-8" value="Use Facebook APIs to send response to the user." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="280" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SkGyl-OMJJwvpICMnTSE-11" value="Send OK response" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="90" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SkGyl-OMJJwvpICMnTSE-12" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Facebook Messenger - Openai&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="274" y="30" width="280" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
